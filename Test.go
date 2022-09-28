@@ -269,4 +269,3 @@ func main() {
 //"name":"TestGitAPI"
 //"full_name":"Sjunne/TestGitAPI"
 
-//mine ændringer
